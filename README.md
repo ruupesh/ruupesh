@@ -15,6 +15,3 @@
 
 
  *"The art of developers lies in solving problems by wrapping functionality in layers upon layers of abstraction, wrappers on top of wrappers, until complexity transforms into a seamless solution (or at least looks like one)."*  
-
----
-![Visitor Count](https://komarev.com/ghpvc/?username=ruupesh&color=blue&style=flat-square)
